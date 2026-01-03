@@ -1,0 +1,8 @@
+{
+  "name": "Cricket Pro Simulation 2026",
+  "description": "A high-fidelity cricket simulation game featuring realistic bowling mechanics, AI-driven batting logic, and professional sports-style UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
